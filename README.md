@@ -1,6 +1,8 @@
 # Android Testing Codelab
 
-This folder contains the source code for the Android testing codelab. It gives an introduction into testing on Android, including unit tests and UI tests. It is for self-study purpose.
+This folder contains the source code for the Android testing codelab. It gives an introduction into testing on Android, including unit tests and UI tests. It is for self-study purpose.<br/>
+
+[Android testing codelab Link](https://codelabs.developers.google.com/codelabs/android-testing/index.html#0)
 
 ### Use an iterative development workflow
 It's important to consider the units of responsibility that emerge as we design new feature. For each unit, we write a corresponding unit test. The two cycles associated with iterative, test-driven development as the below figure
